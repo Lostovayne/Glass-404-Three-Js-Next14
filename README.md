@@ -1,12 +1,12 @@
 <p style="text-align: center; font-size: 40px; font-weight: bold" >
-Glass Efect Three
+Glass Efect Three 404
 </p>
 
 <div align="center" style="margin-top: 50px; width: 450px; margin-inline: auto"  >
-<img src="./resources/img.png">
+<img src="./resources/giphy.gif">
 </div>
 
-# 3D Glass Effect Three
+# 3D Glass Effect Three 404
 
 3D Glass Effect Three is an innovative software solution designed to revolutionize the field of computer graphics and 3D visualization. This cutting-edge technology allows for the creation of stunning 3D environments and objects with unparalleled realism, depth, and detail.
 
